@@ -14,4 +14,3 @@ Programmers:
 3. Paolo Suiza
 4. Aleacel Postor
 Date Submitted: October 27 2022
-
